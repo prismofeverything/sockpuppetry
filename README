@@ -1,0 +1,13 @@
+# mittens
+
+This is a basic example of a websocket chat with aleph.
+
+## Usage
+
+> lein run
+
+Then, open up a number of index.html, give your name and chat away!
+
+## License
+
+Distributed under the Eclipse Public License, the same as Clojure.
