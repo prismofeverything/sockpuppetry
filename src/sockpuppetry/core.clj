@@ -1,4 +1,4 @@
-(ns mittens.core
+(ns sockpuppetry.core
   (:require [lamina.core :as lamina]
             [aleph.http :as http]))
 

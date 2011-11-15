@@ -1,5 +1,5 @@
-(ns mittens.test.core
-  (:use [mittens.core])
+(ns sockpuppetry.test.core
+  (:use [sockpuppetry.core])
   (:use [clojure.test]))
 
 (deftest replace-me ;; FIXME: write
